@@ -17,7 +17,7 @@ a {
 }
 
 .title {
-    font-weight: 600;
+    font-weight: 200;
     font-size: 1.5rem;
 }
 
@@ -80,7 +80,7 @@ li {
 .vcard {
     padding: 2rem 0 2rem 0;
     border-top: 1px solid #dedede;
-    border-radius: 9px;
+    border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.8);
 }
 
@@ -112,10 +112,9 @@ li {
     padding: 1rem 2rem;
     width: 320px;
     border: 1px solid #dae1e3;
-    /* background: #f8fbfd; */
+    background: #f8fbfd;
     border-radius: 5px;
     text-align: left;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .gh-signin .form-group {
@@ -139,9 +138,8 @@ li {
     border-radius: 4px;
     transition: border-color .15s linear;
     -webkit-appearance: none;
-    color: rgb(59, 59, 59);
+    color: #4b5b62;
     -webkit-user-select: text;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .sign-in-wrap input:focus {
