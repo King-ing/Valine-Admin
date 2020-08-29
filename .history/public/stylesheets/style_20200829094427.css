@@ -158,9 +158,3 @@ li {
     padding-left: 9px;
     color: #33b1ff;
 }
-
-#bg{
-    background-image: url(https://cdn.jsdelivr.net/gh/King-ing/CDN/assets/bg_3.jpg)no-repeat 100%;
-    background-size:cover;
-    z-index:99; 
-}
